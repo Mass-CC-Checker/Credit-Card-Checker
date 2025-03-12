@@ -1,4 +1,4 @@
-# Credit Card Checker | CC Checker💳
+# Credit Card Checker | CC Checker 💳
 
 ## Description
 **Credit Card Checker** is a powerful desktop application designed to help users verify the validity and security of credit card information. This tool is essential for businesses and individuals who want to ensure that their transactions are safe and compliant with industry standards.
